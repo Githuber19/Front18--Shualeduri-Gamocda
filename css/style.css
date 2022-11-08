@@ -207,7 +207,7 @@
     margin-top: 10%;
   }
   .topdesigners1 span {
-    margin-top: 10%;
+    margin-top: 5%;
   }
   .topdesigners1 {
     display: flex;
@@ -223,8 +223,8 @@
   }
   .flex-d button {
     width: 132px;
-    height: 44px;
-    border-radius: 12px;
+    height: 50px;
+    border-radius: 10px;
     border-color: #f2f2f2;
   }
   .topdesigners-first1 h3 {
@@ -236,7 +236,7 @@
     margin-bottom: 10px;
     font-family: "Avenir Book";
   }
-  .topdesigners-first1 img:hover {
+  .topdesigners-first1 images:hover {
     opacity: 70%;
   }
   .topdesigners-first1 h3:hover {
@@ -278,11 +278,11 @@
     justify-content: space-between;
     margin-top: 15%;
   }
-  .lastdiv1 img {
+  .lastdiv1 images {
     margin-left: 10px;
     width: 24px;
   }
-  .lastdiv1 img:hover {
+  .lastdiv1 images:hover {
     opacity: 60%;
   }
   .smartacademy {
